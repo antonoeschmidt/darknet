@@ -1,0 +1,10 @@
+/Users/antonoeschmidt/Desktop/training/darknet/libdark.dylib
+/Users/antonoeschmidt/Desktop/training/darknet/include/darknet/darknet.h
+/Users/antonoeschmidt/Desktop/training/darknet/include/darknet/yolo_v2_class.hpp
+/Users/antonoeschmidt/Desktop/training/darknet/uselib
+/Users/antonoeschmidt/Desktop/training/darknet/darknet
+/Users/antonoeschmidt/Desktop/training/darknet/uselib_track
+/Users/antonoeschmidt/Desktop/training/darknet/share/darknet/DarknetTargets.cmake
+/Users/antonoeschmidt/Desktop/training/darknet/share/darknet/DarknetTargets-release.cmake
+/Users/antonoeschmidt/Desktop/training/darknet/share/darknet/DarknetConfig.cmake
+/Users/antonoeschmidt/Desktop/training/darknet/share/darknet/DarknetConfigVersion.cmake

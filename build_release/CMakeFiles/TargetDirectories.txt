@@ -1,0 +1,10 @@
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/install/strip.dir
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/install.dir
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/rebuild_cache.dir
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/edit_cache.dir
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/uselib.dir
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/darknet.dir
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/install/local.dir
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/uselib_track.dir
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/list_install_components.dir
+/Users/antonoeschmidt/Desktop/training/darknet/build_release/CMakeFiles/dark.dir
