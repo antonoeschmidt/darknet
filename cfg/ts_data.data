@@ -1,5 +1,5 @@
 classes = 4
-train = /content/img/tsYOLO/train.txt
-valid = /content/img/tsYOLO/test.txt
-names = /content/img/tsYOLO/classes.names
+train = /content/img/train.txt
+valid = /content/img/test.txt
+names = /content/img/classes.names
 backup = backup
