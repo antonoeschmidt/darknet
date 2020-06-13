@@ -1,0 +1,5 @@
+classes = 1
+train = /content/7c/val/train.txt
+valid = /content/7c/val/test.txt
+names = /content/7c/val/classes.names
+backup = backup
